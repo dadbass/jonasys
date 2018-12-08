@@ -1,1 +1,2 @@
-# jonasys
+# Probot ✨
+Epic Discord Bot
