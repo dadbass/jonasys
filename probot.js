@@ -4989,4 +4989,4 @@ client.on('message', message => {
 
 
 
-client.login('bot token')
+client.login('NTEzMDQwNTE0ODE2MTQ3NDU2.Du3OUw.iMK2r0RAyuLVWF1cSHeGbNaST7o')
